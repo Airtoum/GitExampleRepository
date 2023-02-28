@@ -6,3 +6,7 @@ This is someone else's change again!
 
 
 This is the beginning of a very cool story.
+
+This is the middle of a very cool story.
+
+This is the end of a very cool story.
